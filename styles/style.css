@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: chocolate;
+    font-size: 20px;
+}
+body{
+    height: 100vh;
+    background-color: rgb(238, 201, 132);
+    margin-top: 20px;
+}
